@@ -1,0 +1,22 @@
+.test{
+    background-color: #182958;
+}
+.test1{
+    background-color: #F58025;
+}
+
+.VH100{
+    height: 100vh;
+}
+
+body{
+    background-color: #1A295A;
+}
+
+.VH20{
+    height: 20vh;
+}
+
+.unset-padding{
+    padding: unset!important;
+}
