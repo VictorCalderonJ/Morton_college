@@ -1,5 +1,6 @@
 .test{
     background-color: #182958;
+
 }
 .test1{
     background-color: #F58025;
@@ -19,4 +20,8 @@ body{
 
 .unset-padding{
     padding: unset!important;
+}
+
+.h-85{
+    min-height: 85vh!important;
 }
