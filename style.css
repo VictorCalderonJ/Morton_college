@@ -1,7 +1,4 @@
-.test{
-    background-color: #182958;
 
-}
 .test1{
     background-color: #F58025;
 }
@@ -24,4 +21,9 @@ body{
 
 .h-85{
     min-height: 85vh!important;
+}
+
+img {
+    max-width: 100% !important;
+    height: auto;
 }
