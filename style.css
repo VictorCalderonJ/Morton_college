@@ -40,3 +40,9 @@ img {
 .navbarWidth{
     height: 8rem;
 }
+
+
+.bg-col{
+    background-color: #00205A;
+    height: 70vh;
+}
