@@ -46,3 +46,23 @@ img {
     background-color: #00205A;
     height: 70vh;
 }
+
+.SE-BG-Title {
+    background-color: #F58025;
+}
+
+.UnsetBorder{
+    border-radius: unset!important;
+}
+
+.TopC-Border{
+    border-radius: 10px 10px 0px 0px!important;
+}
+
+.BotC-Border{
+    border-radius: 0px 0px 10px 10px!important;
+}
+
+.padding-unset{
+    padding: unset!important;
+}
