@@ -56,7 +56,7 @@ img {
 }
 
 .TopC-Border{
-    border-radius: 10px 10px 0px 0px!important;
+    border-radius: 5px 5px 0px 0px!important;
 }
 
 .BotC-Border{
@@ -69,4 +69,16 @@ img {
 
 .border-adj{
     width: 90%!important;
+}
+
+.border-l{
+    border-radius: 5px 0px 0px 5px;
+}
+
+.border-r{
+    border-radius: 0px 5px 5px 0px;
+}
+
+.C-border-fix {
+    border-radius: 0px 6px 0px 0px !important;
 }
