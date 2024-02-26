@@ -73,6 +73,7 @@ img {
 
 .border-l{
     border-radius: 5px 0px 0px 5px;
+    /*border-style: unset!important;*/
 }
 
 .border-r{
