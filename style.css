@@ -66,3 +66,7 @@ img {
 .padding-unset{
     padding: unset!important;
 }
+
+.border-adj{
+    width: 90%!important;
+}
