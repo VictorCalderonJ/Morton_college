@@ -68,7 +68,11 @@ img {
 }
 
 .border-adj{
-    width: 90%!important;
+    /*border-style: solid;*/
+    border-style: solid;
+    height: 1px;
+    color: #155C75;
+
 }
 
 .border-l{
@@ -82,4 +86,8 @@ img {
 
 .C-border-fix {
     border-radius: 0px 6px 0px 0px !important;
+}
+
+.morton-secondary-color{
+    background-color: #00205A;
 }
