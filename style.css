@@ -19,8 +19,8 @@ body{
     padding: unset!important;
 }
 
-.h-85{
-    min-height: 85vh!important;
+.VH85{
+    height: 86vh!important;
 }
 
 img {
