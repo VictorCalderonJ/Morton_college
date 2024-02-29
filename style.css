@@ -1,6 +1,11 @@
+body {
+    font-family: 'Poppins', sans-serif;
+}
+
+
 
 .test1{
-    background-color: #F58025;
+    background: linear-gradient(to right, white 20%, #F58025 80%);
 }
 
 .VH100{
@@ -29,8 +34,8 @@ img {
 }
 
 .FormSearchStyle{
-    width: 80%;
-    background-color: rgba(255, 255, 255, 0.5);
+    width: 70%;
+    background-color: rgba(255, 255, 255, 0.25); /* Change background color to white when focused */
 }
 
 .RoundByForce{
@@ -350,4 +355,13 @@ img {
 
 .bg-calender1 {
     background-color: #F58025;
+}
+
+/*.FormSearchStyle {*/
+/*    background-color: #F58025;*/
+/*    transition: background-color 0.3s;*/
+/*}*/
+
+.FormSearchStyle:focus {
+    background-color: rgba(255, 255, 255, 0.5);
 }
