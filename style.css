@@ -95,7 +95,7 @@ img {
 /*Exaple*/
 
 .card-1 {
-    width: 300px;
+    width: 100%;
     height: 200px;
     background: #243137;
     position: relative;
@@ -346,4 +346,8 @@ img {
     100% {
         transform: scale(1);
     }
+}
+
+.bg-calender1 {
+    background-color: #F58025;
 }
