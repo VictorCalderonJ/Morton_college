@@ -387,3 +387,6 @@ body, html {
     object-fit: cover;
 }
 
+.nav-item:hover .dropdown-menu {
+    display: block;
+}
